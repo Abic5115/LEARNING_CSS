@@ -1,0 +1,61 @@
+.rectbig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    
+    width: 900px;
+    height: 400px;
+    background-color: silver;
+    border:solid 5px black;
+}
+
+.box1{
+    width: 350px;
+    height:350px;
+    background-color: rgb(209, 48, 101);
+    
+}
+.rectright{
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.box2{
+    width: 500px;
+    height: 100px;
+    background-color: palegreen;
+    
+}
+
+.box3{
+    width: 250px;
+    height: 250px;
+    background-color: palevioletred;
+}
+
+.box4a{
+    width: 250px;
+    height: 110px;
+    background-color: rgb(80, 172, 233);
+}
+.rectdown{
+    display: flex;
+    gap: 10px;
+}
+
+.box4b{
+    width: 250px;
+    height: 110px;
+    background-color: rgb(5, 5, 5);
+}
+
+.rectmid{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+}

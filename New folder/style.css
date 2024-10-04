@@ -1,0 +1,73 @@
+.intro{
+    font-size: 18px;
+}
+
+#unique{
+    color: red;
+}
+
+#unique1{
+    color:green;
+}
+
+
+.container p{
+    font-weight: bold;
+}
+
+.inner p{
+    font-weight: normal;
+    color: lightblue;
+}
+
+.container span{
+    color: orange;
+}
+
+.container1 h2{
+    color: darkred;
+
+}
+
+#unique2 :nth-child(odd){
+    color: grey;
+
+}
+
+
+.box{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(118, 202, 118);
+    border:solid 5px blue;
+    border-radius: 90px;
+
+}
+.box1{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(39, 206, 248) ;
+    border: solid 5px blue;
+    border-radius: 35px 10cm 10%;
+
+}
+
+.box2{
+    width: 250px;
+    height: 150px;
+    background-color: blueviolet ;
+    border: solid 5px blue;
+    border-radius: 25% 10%;
+   
+
+}
+
+.box3{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(43, 226, 113) ;
+    border: solid 5px blue;
+    border-radius: 50px 50% 50cm 50cm;
+   
+
+}

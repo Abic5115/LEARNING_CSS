@@ -1,0 +1,167 @@
+
+
+.top{
+    width: 100%;
+    height: 120px;
+    
+
+}
+
+.item1{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.item2{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(243, 81, 108);
+    display: flex;
+    align-items: center;
+    gap: 350px;
+    
+}
+.item2_1{
+    display: flex;
+    gap: 70px;
+    font-size: small;
+    color: white;
+    margin-left: 60px;
+    
+    
+
+    
+}
+.item2_2{
+    display: flex;
+    gap: 15px;
+    
+
+    
+}
+.tt1{
+    padding-left: 600px;
+}
+
+
+.img1{
+     width: 30px;
+     height: 30px;
+     gap: 15px   ;
+     
+
+}
+
+.gr1{
+    background-color: rgb(255, 255, 255);
+    width: 1200px ;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 320px 320px  320px  320px  320px  320px ;
+    grid-template-rows:  167px 167px 167px;
+    padding: 2%;
+    
+}   
+
+
+.item3{
+    
+    grid-column: 1/4;
+    grid-row: 1/4;
+    
+    border: solid 10px white;
+    background-image: url( "https://media.istockphoto.com/id/1400577262/photo/happy-mature-african-american-man-standing-alone-against-a-red-background-in-a-studio-and.jpg?s=612x612&w=0&k=20&c=PC1WhI1UkpdIS44-_mZaPYZg7BOPadQZz1VytdHE5G8=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.item4{
+    grid-column: 4/5;
+    grid-row: 1/3;
+    background-image: url( "https://img.freepik.com/premium-photo/girl-colorful-oil-painting-young-lady-painting-colorful-artwork-with-flowers-beautiful-colors_667286-3538.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px white;
+    
+ 
+}
+
+.item5{
+    grid-column: 4/4;
+    grid-row: 3/3;
+    background-image: url( "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7IpKmYMNIP9HdVbSNw_Tj1eETX8ddzftUA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 10px white;
+}
+
+
+
+ .gr2{
+    width: 1200;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 323px 323px 323px 323px;
+    grid-template-rows: 300px;
+    padding-left: 20px;
+ }
+
+ .item6{
+    padding-left: 2.5%;
+    grid-column: 1/1;
+    grid-row: 1/1;
+    
+    border: solid 15px white;
+    background-image: url( "https://www.chase.co.uk/gb/en/static/content/dam/chaseweb/gb/en/images/hub-articles/2022/july/Article-hero-desktop-sports-escape-gb-getty1336646871.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.item7{
+    
+    grid-column: 2/2;
+    grid-row: 1/1;
+    background-color: rgb(0, 0, 0);
+    background-image: url( "https://i.pinimg.com/736x/93/b3/55/93b35561eede9afe1788342121496100.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 15px white;
+}
+
+.item8{
+    
+    grid-column: 3/3;
+    grid-row: 1/1;
+    background-color: rgb(240, 25, 25);
+    border: solid 15px white;
+    background-image: url( "https://petapixel.com/assets/uploads/2022/09/SportsPhotographerBasketball1-800x800.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.item9{
+    
+    grid-column: 4/4;
+    grid-row: 1/1;
+    background-image: url( "https://www.si.com/.image/t_share/MTg1ODgyMTMxNzMyMzc1MjM1/sports_illustrated_2021_year_in_pictures_00007.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    border: solid 15px white;
+    
+}
+
+.t1{
+    padding-left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

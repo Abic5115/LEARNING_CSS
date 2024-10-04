@@ -1,0 +1,137 @@
+
+
+
+.rectbigg{
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    border: solid 5px black;
+    
+}
+
+.rectbig{
+    width: 900px;
+    height: 350px;
+    background-color: rgb(80, 187, 219);
+    border: solid 5px white;
+    margin-top: 20px;
+    
+}
+.rect1{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(15, 240, 127);
+    margin-left: -400px;
+    margin-top: 70px;
+    box-shadow:  -20px -20px darkblue    ;
+
+}
+
+.rect2{
+    width: 250px;
+    height: 200px;
+    background-color: rgb(221, 189, 8);
+    margin-top: -200px;
+    margin-left: 350px;
+
+
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(209, 127, 19);
+
+    
+}
+
+.b1{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(219, 99, 20);
+    border: solid 3px red;
+    border-radius:  40%;
+   margin-top: 100px; 
+   padding: 30px;
+   margin-left: 50px;
+   box-shadow: -1px -1px 5px 1px rgb(8, 8, 8);
+   color: white;
+}
+
+.boxx{
+    width: 400px;
+    height: 300px;
+    background-color:rgb(192, 190, 188);
+    border: solid 5px black ;
+    
+}
+
+.b2{
+    display: flex;
+    width: 250px;
+    height: 70px;
+    background-color:rgb(192, 190, 188);
+    border: solid 5px black ;
+    border-radius: 80px 80px;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 170%;
+    text-align: top;
+    box-shadow:-1px -1px 5px 1px rgb(8, 8, 8) ;
+}
+
+.text{
+    margin-top: 18px;
+    font-style: oblique;
+    margin-left: -230px;
+    
+}
+
+.size-6 {
+    width: 40px;
+    margin-top: -3px;
+    margin-left: 200px;
+}
+
+
+
+.boxxx{
+    width: 400px;
+    height: 300px;
+    background-color:rgb(192, 190, 188);
+    border: solid 5px black ;
+    
+}
+
+.b3{
+    width: 250px;
+    height: 70px;
+    background-color: rgb(192, 190, 188);
+    border: solid 5px rgb(9, 9, 65) ;
+    border-radius: 80px 80px;
+    margin-top: 30px;
+    margin-left: 50px;
+    box-shadow: -1px -1px 5px 1px rgb(8, 8, 8);
+    font-size: larger ;
+}
+
+.b4{
+    width: 250px;
+    height: 70px;
+    background-color: rgb(192, 190, 188);
+    border: solid 5px rgb(9, 9, 65) ;
+    border-radius: 80px 80px;
+    margin-top: 30px;
+    margin-left: 50px;
+    box-shadow: -1px -1px 5px 1px rgb(8, 8, 8);
+    font-size: larger;
+}
+.text1{ font-weight: bolder;
+    margin-left: 10px;
+}
+
+.text2{
+    font-weight: bolder;
+    margin-left: 10px;
+}
+

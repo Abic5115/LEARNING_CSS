@@ -1,0 +1,41 @@
+.box{
+    width: 300px;
+    height: 200px;
+    display: grid;
+    grid-column: 4;
+    grid-row: 3;
+    border: solid 5px yellow;
+    
+}
+
+.box1{
+    grid-column: 1/5   ;
+    
+    background-color: rgb(35, 107, 240);
+    border: solid 5px yellow;
+
+}
+
+.box2{
+    grid-column:1/1;
+    background-color: rgb(253, 70, 37) ;
+    border: solid 5px yellow;
+}
+
+.box3{
+    grid-column:2/4;
+    background-color: rgb(98, 253, 37) ;
+    border: solid 5px yellow;
+}
+
+.box4{
+    grid-column: 4/4;
+    background-color: rgb(253, 70, 37);
+    border: solid 5px yellow;
+}
+
+.box5{
+    grid-column: 1/5;
+    background-color: orange;
+    border: solid 5px yellow;
+}
