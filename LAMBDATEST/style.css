@@ -71,3 +71,12 @@
    
 
 }
+
+.body{
+    background-image: url(https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: lightgreen;
+    background-blend-mode: multiply;
+    
+}
